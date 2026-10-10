@@ -1,0 +1,13 @@
+{
+  "currency": "USD",
+  "segments": [
+    {"name": "Small teams", "accounts": 100, "seats_per_account": 5},
+    {"name": "Growing teams", "accounts": 30, "seats_per_account": 25},
+    {"name": "Large teams", "accounts": 8, "seats_per_account": 100}
+  ],
+  "plans": [
+    {"name": "Accessible", "seat_price_monthly": "9.00", "minimum_per_account_monthly": "0.00"},
+    {"name": "Balanced", "seat_price_monthly": "12.00", "minimum_per_account_monthly": "49.00"},
+    {"name": "Premium", "seat_price_monthly": "16.00", "minimum_per_account_monthly": "99.00"}
+  ]
+}
